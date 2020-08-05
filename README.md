@@ -27,21 +27,21 @@ In the past few years, I am dedicating a lot of efforts trying to develop a conc
 
 ### Languages and Tools:
 
-[<img align="left" alt="CS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][website]
-[<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MS SQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" />][website]
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="OPCUA" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSITzH0aul9-Wa7F5sykeVtvDv981bL_qBZDw&usqp=CAU" />][website]
-[<img align="left" alt="NODERED" width="30px" src="https://ajornadadetchellita.files.wordpress.com/2017/07/node-red-icon-2.png?w=512" />][website]
-[<img align="left" alt="UNITY" width="30px" src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" />][website]
-[<img align="left" alt="VMWARE" width="30px" src="https://chocolatey.org/content/packageimages/vmware-workstation-player.15.5.6.16341506.png" />][website]
-[<img align="left" alt="Office" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Microsoft_Office_2013_logo.svg/864px-Microsoft_Office_2013_logo.svg.png" />][website]
+[<img align="left" alt="CS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg" />][website]
+[<img align="left" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
+[<img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
+[<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
+[<img align="left" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
+[<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
+[<img align="left" alt="MS SQL" width="40px" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" />][website]
+[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="OPCUA" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSITzH0aul9-Wa7F5sykeVtvDv981bL_qBZDw&usqp=CAU" />][website]
+[<img align="left" alt="NODERED" width="40px" src="https://ajornadadetchellita.files.wordpress.com/2017/07/node-red-icon-2.png?w=512" />][website]
+[<img align="left" alt="UNITY" width="40px" src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" />][website]
+[<img align="left" alt="VMWARE" width="40px" src="https://chocolatey.org/content/packageimages/vmware-workstation-player.15.5.6.16341506.png" />][website]
+[<img align="left" alt="Office" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Microsoft_Office_2013_logo.svg/864px-Microsoft_Office_2013_logo.svg.png" />][website]
 
 <br />
 <br />
