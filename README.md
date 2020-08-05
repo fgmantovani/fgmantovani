@@ -16,17 +16,14 @@ In the past few years, I am dedicating a lot of efforts trying to develop a conc
 
 ### Industrial Automation Technologies:
 
-[<img align="left" alt="ROCKWELL" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcShp525KQuVAwsjKb09qCSy4GV3NtKBSvERvQ&usqp=CAU" />] 
-<br />
-[Studio 5000 View Design][rs5000]
-[Factory Talk View Studio][ftvstudio]
-
-<br />
-[<img align="left" alt="SIEMENS" width="100px" src="https://cdn.iconscout.com/icon/free/png-256/siemens-282535.png" />] 
-[TIA Portal][tia]
-[SIMOTION Scout][tia]
-[SIMATIC Manager][tia]
-[SIMATIC WinCC][tia]
+- [ROCKWELL - Studio 5000 View Design][ra]
+- [ROCKWELL - Factory Talk View Studio][ra]
+- [SIEMENS - TIA Portal][siemens]
+- [SIEMENS - SIMOTION Scout][siemens]
+- [SIEMENS - SIMATIC Manager][siemens]
+- [SIEMENS - SIMATIC WinCC][siemens]
+- [BECKHOFF - TwinCAT 3][beckhoff]
+- [B&R - Automation Studio][ber]
 
 <br />
 ### Languages and Tools:
@@ -42,6 +39,7 @@ In the past few years, I am dedicating a lot of efforts trying to develop a conc
 
 [website]: https://aery.com.br
 [linkedin]: https://www.linkedin.com/in/frederico-mantovani-621b223b
-[rs5000]: https://www.rockwellautomation.com/pt-br/products/software/factorytalk/designsuite/studio-5000/studio-5000-view-designer.html
-[ftvstudio]: https://www.rockwellautomation.com/pt-br/products/software/factorytalk/operationsuite/view.html
-[tia]: https://new.siemens.com/br/pt/produtos/automacao/software-industria/automacao-industrial/tia-portal.html
+[ra]: https://www.rockwellautomation.com/pt-br.html
+[siemens]: https://new.siemens.com/br/pt/produtos/automacao/software-industria/automacao-industrial/tia-portal.html
+[beckhoff]: https://beckhoff.com/
+[ber]: https://www.br-automation.com/
