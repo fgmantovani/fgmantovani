@@ -41,7 +41,6 @@ In the past few years, I am dedicating a lot of efforts trying to develop a conc
 [<img align="left" alt="NODERED" width="40px" src="https://ajornadadetchellita.files.wordpress.com/2017/07/node-red-icon-2.png?w=512" />][website]
 [<img align="left" alt="UNITY" width="40px" src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" />][website]
 [<img align="left" alt="VMWARE" width="40px" src="https://chocolatey.org/content/packageimages/vmware-workstation-player.15.5.6.16341506.png" />][website]
-[<img align="left" alt="Office" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Microsoft_Office_2013_logo.svg/864px-Microsoft_Office_2013_logo.svg.png" />][website]
 
 <br />
 <br />
